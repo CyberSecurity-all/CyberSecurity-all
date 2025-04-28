@@ -110,5 +110,5 @@ This isn’t just another system—it’s a business continuity standard that:
 <a href="https://github.com/CyberSecurity-all/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/CyberSecurity-all/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/CyberSecurity-all/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/CyberSecurity-all/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>-->
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+
 
