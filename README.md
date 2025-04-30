@@ -101,7 +101,7 @@ This isn’t just another system—it’s a business continuity standard that:
 
 
 
-<i>A curated list of awesome Github Profile READMEs</i>
+<!--<i>A curated list of awesome Github Profile READMEs</i>-->
 
 <!--<a href="https://github.com/CyberSecurity-all/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/CyberSecurity-all/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/CyberSecurity-all/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/CyberSecurity-all/awesome-github-profile-readme" alt="Forks Badge"/></a>
