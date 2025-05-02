@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Every minute of downtime costs you revenue and customer trust
-- 🌱 Data breaches damage your reputation
-- 👯 Cyberattacks pose existential risks to your business
+- 🔭 **Every minute of downtime costs you revenue and customer trust**
+- 🌱 **Data breaches damage your reputation**
+- 👯 **Cyberattacks pose existential risks to your business**
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
