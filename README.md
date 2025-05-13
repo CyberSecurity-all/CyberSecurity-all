@@ -17,8 +17,8 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.producthunt.com/posts/it-infrastructure-for-business?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Let's build a reliable and secure information environment together | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
-<div align="center">
+<a href="https://www.producthunt.com/posts/it-infrastructure-for-business?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-it&#0045;infrastructure&#0045;for&#0045;business" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=964198&theme=light&t=1747107692206" alt="IT&#0032;Infrastructure&#0032;for&#0032;Business&#0033; - Cybersecurity&#0045;all&#0047;cybersecurity&#0045;all | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a>
+
 
 <!--<img src="../images/cybersecurity-p.png" style="width: 200px;height:400px" alt="information environment">-->
 <img src="cybersecurity-p.png" style="width: 500px;height:500px" alt="information environment">
